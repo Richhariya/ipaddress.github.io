@@ -1,0 +1,60 @@
+body{
+    position: relative;
+    width: 1512px;
+    height: 982px;
+}
+
+#heading1{
+    position: absolute;
+width: 1167px;
+height: 41px;
+left: 41px;
+top: 59px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 41px;
+
+color: #000000;
+
+}
+
+.input{
+    position: absolute;
+width: 1167px;
+height: 82px;
+left: 41px;
+top: 142px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 41px;
+
+color: #000000;
+}
+
+iframe{
+    position: absolute;
+    margin-top:350px ;
+    margin-left: 20px;
+    width: 1300px;
+    height: 300px;
+}
+
+.input3{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1300px;
+    height: 50px;
+    margin-top: 700px;
+    border: 3px solid #000000;
+    border-radius: 10px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+

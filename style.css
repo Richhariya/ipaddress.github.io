@@ -1,0 +1,55 @@
+body{
+    position: relative;
+width: 1512px;
+height: 982px;
+
+background: #FFFFFF;
+}
+
+#heading{
+    position: absolute;
+    width: 1167px;
+    height: 41px;
+    left: 41px;
+    top: 59px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 41px;
+    
+    color: #000000;
+    
+}
+ #showid{
+    position: absolute;
+    width: 1167px;
+    height: 41px;
+    left: 350px;
+    top: 67px;
+    font-size: 28px;
+
+}
+ 
+
+#demo{
+    position: absolute;
+    width: 250px;
+    height: 60px;
+    left: 41px;
+    top: 127px;
+    background: #000000;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
